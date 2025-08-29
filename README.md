@@ -27,9 +27,3 @@ I'm from Serbia 🇷🇸 and born in 2004. I'm also semi-professional football p
 <br />
 
 #
-
-<details>
- <summary><h3>👨‍💻 kel1x Coding Journey</h3></summary>
-   I started my coding journey from scratch in 2019, learning HTML,CSS,JS from YouTube tutorials, various websites and from school, started learning lua programming in 2021 when i first played FiveM. Over the past 5 years, I've been immersed in Lua coding, honing my skills and expanding my knowledge.
-   So don't wait up, because I'm on a mission.
-</details>
