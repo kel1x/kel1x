@@ -1,29 +1,80 @@
-### Hi there 👋
+<h1 align="center">👋 Hey, I'm Matija</h1>
 
-I'm a FiveM learning developer interested in QBCore, I enjoy casual development in my free time.
+<p align="center">
+  💻 Developer • 🎬 Content Creator
+</p>
 
-- 🔭 I’m currently working on improving my skills in Lua programming for FiveM development.
-- 🌱 I’m currently learning more about QBCore framework.
-- 💬 Ask me about FiveM development or anything related to Lua programming!
-- ⚡ Fun fact: I'm passionate about gaming and enjoy exploring new game mechanics in my spare time.
-
-I'm from Serbia 🇷🇸 and born in 2004. I'm also semi-professional football player ⚽
-
-   <p align="left">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kel1x?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/kel1x?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kel1x?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ex+FiveM+Developer;Building+cool+stuff...;Learning+every+day...;Turning+ideas+into+reality." />
+</p>
 
 ---
-### 🧰 Languages and Tools
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
-<br />
+## 🧠 About Me
 
-#
+- 🎂 21 years old  
+- 📍 Serbia
+- 🎥 Into content creation & AI tools  
+- 🚀 Always learning new technologies
+- 💻 Ex-FiveM Developer    
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,python,mysql,git,github,vscode,lua" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kel1x?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
+  <a href="https://github.com/kel1x?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kel1x?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
+---
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/__matija22">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:matijaposlovni123@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://discord.com">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
+</p>
+
+<p align="center">
+  📸 Instagram: <b>@YOURUSERNAME</b> <br>
+  📧 matijaposlovni123@gmail.com <br>
+  💬 Discord: <b>xkel1</b>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Building web apps  
+- Backend systems & databases  
+- AI tools & automation  
+- Content creation workflows  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
+</p>
